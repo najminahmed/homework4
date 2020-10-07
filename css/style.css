@@ -64,6 +64,9 @@ text-decoration: underline;
 
 /*Your Code Here*/
 /*Write selector/rule property to style all elements when in focus*/
+nav a:focus, .skip a:focus{
+    border: 2px solid;
+}
 
 
 nav{
